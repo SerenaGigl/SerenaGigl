@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JS, ...
 - 🌱 I’m currently learning so most of my project are not well made.
 - 💞️ I'm available to collaborate with anyone
-- 📫 How to reach me: by mail, facebook or instagram. All og thme could be found on my profile.
+- 📫 How to reach me: by mail, facebook or instagram. All of these could be found on my profile.
 - 😄 Pronouns: Her
 
 <!---
